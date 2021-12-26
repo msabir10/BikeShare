@@ -1,6 +1,8 @@
 ### Project Overview
 The purpose of this project is to create a visual business proposal using Tableau Public. Data on Citi bike riders in New York City is analyzed to determine the business prospects of creating a similar business in Des Moines, Iowa. Pandas DataFrames and Tableau Calculated Fields are used to transform the datatypes and format of some columns.
 
+below is the link to my completed analysis.
+https://public.tableau.com/app/profile/muhammad.sabir7102/viz/NY-Bikeshare_16403800516650/Story1?publish=yes
 ### Results
 
 The analysis begins with general information, which contains a map of the top starting locations for rides in NYC and a pie chart showing the gender distribution of riders. This dashboard is intended to provide a basic overview of the data.
@@ -17,4 +19,3 @@ In this analysis, it is found that the majority of Citi bike riders in New York 
 
 Although this business is popular in NYC due to the heavy traffic, it is not certain that Des Moines will develop the same success. Further research must be done on Des Moines to determine whether car traffic and locational convenience would motivate potential customers to use this service.
 
-https://public.tableau.com/app/profile/muhammad.sabir7102/viz/NY-Bikeshare_16403800516650/Story1?publish=yes
